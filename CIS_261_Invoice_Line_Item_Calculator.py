@@ -1,5 +1,3 @@
-#Shaelyn Britney
-#CIS 261
 #Invoice Line Item Calculator
 
 #!/usr/bin/env python3
